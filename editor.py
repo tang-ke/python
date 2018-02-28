@@ -1,3 +1,5 @@
+# depend on tkinter modules
+# sudo apt-get install python-tk
 
 # tkinter code for python 2.7
 from Tkinter import *
